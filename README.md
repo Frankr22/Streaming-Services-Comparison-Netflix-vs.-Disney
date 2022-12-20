@@ -1,6 +1,6 @@
 Project 1 - Exploratory Data Analytics Proposal: Understanding trends and insights
 
-Team Members: Robert Franklin, Trang Nguyen (and Thilini?)
+Team Members: Robert Franklin, Trang Nguyen
 
 Project Description:
 Disney + and Netflix: An Exploratory Data Analysis on the competition for subscribers between the two streaming giants.
